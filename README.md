@@ -1,12 +1,13 @@
-# Hi there, I am CC 👋
+# Welcome to CC's corner of the tech world! 👋
 
-## ✨ A little bit about me ✨  
-- 🎓 **Education**: MSIS at Northeastern University 
-
-- 💼 **Previous Experience**:  
+## 👩‍💻 A little bit about me
+- 🎓 **Education**: 
+   - MSIS at NEU 
    - MBBS, MMed (WES-evaluated as MD) at HUST
-   - Underwriter & Project Manager at AIA 
-   - Resident at Tongji Hospital
+
+- 🚀 **My Journey in Tech**:  
+   - Transitioned from healthcare to tech, blending analytical expertise with software development to deliver impactful solutions.
+   - Solving challenges feels like completing a puzzle—every piece is a chance to learn and grow.  
 
 - 🌟 **Fun Facts**:  
    - My cat's picture is my secret weapon for the perfect avatar. Who can resist those whiskers? 🐾
@@ -48,9 +49,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 
-## 📫 How to Reach Me
+## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/changchang-li/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](li.changc@northeastern.edu)
 
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Li-ChangC&theme=vue&height=280&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -58,4 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Li-ChangC&show_icons=true&theme=radical" style="height: 200px;" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li-ChangC&layout=compact&theme=radical" style="height: 200px;" alt="Top Languages" />
 </div>
-
