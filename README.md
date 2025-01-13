@@ -21,18 +21,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=mysql)
 
-### Frameworks and Libraries
+### Frameworks
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000000?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=python)
-
 
 ### Data Tools and Technologies
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
@@ -42,6 +35,14 @@
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-000000?style=flat-square&logo=amazon)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat-square&logo=apache-hadoop)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat-square&logo=powerbi)
+
+### Libraries
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=keras)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000000?style=flat-square&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=python)
 
 ### Development Tools
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
