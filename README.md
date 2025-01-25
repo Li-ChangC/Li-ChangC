@@ -32,8 +32,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat-square&logo=elasticsearch)
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-000000?style=flat-square&logo=amazon)
-![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat-square&logo=apache-hadoop)
+![AWS](https://img.shields.io/badge/-AWS%20S3-000000?style=flat-square&logo=amazon)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat-square&logo=powerbi)
 
 ### Libraries
