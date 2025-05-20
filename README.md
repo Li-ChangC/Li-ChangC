@@ -1,16 +1,16 @@
-# Welcome to CC's corner of the tech world
+# Welcome to CC's corner of the tech world (๑•̀ㅂ•́)و✧
 
-## 👩‍💻 A little bit about me
+## 💫 About me
 - 🎓 **Education**: 
    - MSIS at NEU 
    - MBBS, MMed at HUST
 
-- 🚀 **My Journey in Tech**:  
+- 🚀 **Trajectory**:  
    - Transitioned from healthcare to tech, blending analytical expertise with software development to deliver impactful solutions.
-   - Solving challenges feels like completing a puzzle—every piece is a chance to learn and grow.  
+   - Solving challenges feels like completing a puzzle — every piece is a chance to learn and grow.  
 
-- 🌟 **Fun Facts**:  
-   - My cat's picture is my secret weapon for the perfect avatar. Who can resist those whiskers? 🐾
+- 💾 **Hidden Metadata**:  
+   - My cat's picture is my secret weapon for the perfect avatar. 🐾
 
 
 ## 🔧 Technical Skills
